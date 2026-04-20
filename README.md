@@ -59,3 +59,11 @@ To find useful insights from sales data and help the company make better busines
 ## 🚀 Conclusion
 
 This project shows how data can help businesses make better decisions and grow.
+
+
+
+
+📊 Dashboard Preview
+🔗 Power BI Dashboard File:
+Click here to view/download
+https://drive.google.com/file/d/1EVrHGITrODBRiymRKc4x2F5gSRYRfU-q/view?usp=sharing
