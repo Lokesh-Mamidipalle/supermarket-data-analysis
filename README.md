@@ -1,4 +1,5 @@
 # supermarket-sales-analysis-powerbi
+Key Finding: Mumbai contributes ~49% of total revenue, making it the best location for expansion.”
 Power BI project analyzing supermarket sales data to generate insights and recommendations for business expansion.
 # 🛒 Supermarket Sales Analysis (Power BI)
 
