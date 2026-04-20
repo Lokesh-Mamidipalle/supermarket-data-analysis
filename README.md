@@ -1,4 +1,4 @@
-# supermarket-data-analysis
+# supermarket-sales-analysis-powerbi
 Power BI project analyzing supermarket sales data to generate insights and recommendations for business expansion.
 # 🛒 Supermarket Sales Analysis (Power BI)
 
